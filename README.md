@@ -1,8 +1,5 @@
 # BMI Calculator
-
 A simple Python application to calculate Body Mass Index (BMI) based on user input for weight and height.
-
----
 
 ## Features
 - Calculate BMI using weight (kg) and height (m or cm).
@@ -12,10 +9,7 @@ A simple Python application to calculate Body Mass Index (BMI) based on user inp
   - Overweight
   - Obesity
 
----
-
 ## Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/meantaraa/python-BMI-calculator.git
