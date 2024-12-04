@@ -1,41 +1,36 @@
-# BMI Calculator
-A simple Python application to calculate Body Mass Index (BMI) based on user input for weight and height.
+# Band Name Generator
+
+A simple Python application to generate a band name based on user input for a city and pet name.
 
 ## Features
-- Calculate BMI using weight (kg) and height (m or cm).
-- Categorizes BMI based on standard health classifications:
-  - Underweight
-  - Normal weight
-  - Overweight
-  - Obesity
+- Generates a band name by combining the user's city and pet name.
+- Simple and interactive.
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meantaraa/python-BMI-calculator.git
-2. Navigate to the project directory: cd python-BMI-calculator
-3. -calculator
-Create and activate a virtual environment:
-python -m venv env
-source env/bin/activate  # On Windows: .\env\Scripts\activate
+   git clone https://github.com/meantaraa/python-band-name-generator.git
+2. Navigate to the project directory:cd python-band-name-generator
+3. Create and activate a virtual environment:python -m venv env
+4. Activate the virtual environment: .\env\Scripts\activate
 
 ## Usage
-1. Run the Script: python main.py
-2. Follow the prompts to input weight and height.
-3. View your BMI and its category.
+1. Run the script: python main.py
+2. Follow the prompts to input your city and pet name.
+3.View your generated band name!
 
-## Example
-- Enter your weight (kg): 70
-- Enter your height (m): 1.75
-- Your BMI is: 22.86
-- Category: Normal weight
-
+## Example 
+- Enter the name of the city you grew up in: Paris
+- Enter the name of your pet: Coco
+- Your band name could be: Paris Coco
 
 ## 🤝 Contributing
 Feel free to fork this repository, make enhancements, and submit a pull request. Contributions are welcome!
 
 ## 🌟 Show Your Support
-If you like this project then don't forget to give it a ⭐ on GitHub!😉
+If you like this project, don't forget to give it a ⭐ on GitHub!
+
+
 
 
 
