@@ -27,8 +27,7 @@ A simple Python application to generate a band name based on user input for a ci
 ## 🤝 Contributing
 Feel free to fork this repository, make enhancements, and submit a pull request. Contributions are welcome!
 
-## 🌟 Show Your Support
-If you like this project, don't forget to give it a ⭐ on GitHub!
+
 
 
 
